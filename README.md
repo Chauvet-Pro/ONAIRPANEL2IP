@@ -42,6 +42,7 @@
 
 &nbsp;  
 
+## Software Versions
 
 [V2.0.0 – onAir Panel 2 IP](https://github.com/Chauvet-Pro/ONAIRPANEL2IP/blob/2fcb0135f47e8a98f51ab89a8d6df66c27dce10d/firmware/V2.0.0_02-18-24.zip)
 - Improved network control capabilities and bug fixes
