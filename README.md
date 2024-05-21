@@ -1,5 +1,29 @@
 # ONAIRPANEL2IP
 
+## Software Versions
+
+[V2.0.0 – onAir Panel 2 IP](https://github.com/Chauvet-Pro/ONAIRPANEL2IP/blob/2fcb0135f47e8a98f51ab89a8d6df66c27dce10d/firmware/V2.0.0_02-18-24.zip)
+- Improved network control capabilities and bug fixes
+
+[V1.230811 – onAir Panel 2 IP](https://github.com/Chauvet-Pro/ONAIRPANEL2IP/blob/2fcb0135f47e8a98f51ab89a8d6df66c27dce10d/firmware/V1.230811.zip)
+- Added an IP Mode that enables users to change the IP address to Static, Manual, or DHCP
+
+[V1.221226 – onAir Panel 2 IP](https://github.com/Chauvet-Pro/ONAIRPANEL2IP/blob/2fcb0135f47e8a98f51ab89a8d6df66c27dce10d/firmware/V1.221226.zip)
+- Fixed inconsistencies in the brightness between the two LED boards when fast strobe with calibration on is activated
+
+[V1.220530 – onAir Panel 2 IP](https://github.com/Chauvet-Pro/ONAIRPANEL2IP/blob/2fcb0135f47e8a98f51ab89a8d6df66c27dce10d/firmware/V1.220530.zip)
+- For internal housekeeping.
+
+[V1.220317 – onAir Panel 2 IP](https://github.com/Chauvet-Pro/ONAIRPANEL2IP/blob/2fcb0135f47e8a98f51ab89a8d6df66c27dce10d/firmware/V1.220317.zip)
+- Added X and Y control personalites
+
+[V1.210918 – onAir Panel 2 IP](https://github.com/Chauvet-Pro/ONAIRPANEL2IP/blob/2fcb0135f47e8a98f51ab89a8d6df66c27dce10d/firmware/V1.210918.zip)
+- Released software version
+
+
+&nbsp;  
+
+
 ## USB Software Update Instructions
 1.  Power on the product and plug the flash drive into the USB port.
 2.	Once the flash drive has been detected, the message “***Upgrade Firmware***” will be displayed. Press **< ENTER >**.
@@ -39,25 +63,3 @@
 ### Special Notes
 *  A Force Upload process requires a target fixture (the fixture that needs a Force Upload and a main fixture (the fixture that controls the upload process).
 *  The Force Upload process can only be done one target fixture at a time.
-
-&nbsp;  
-
-## Software Versions
-
-[V2.0.0 – onAir Panel 2 IP](https://github.com/Chauvet-Pro/ONAIRPANEL2IP/blob/2fcb0135f47e8a98f51ab89a8d6df66c27dce10d/firmware/V2.0.0_02-18-24.zip)
-- Improved network control capabilities and bug fixes
-
-[V1.230811 – onAir Panel 2 IP](https://github.com/Chauvet-Pro/ONAIRPANEL2IP/blob/2fcb0135f47e8a98f51ab89a8d6df66c27dce10d/firmware/V1.230811.zip)
-- Added an IP Mode that enables users to change the IP address to Static, Manual, or DHCP
-
-[V1.221226 – onAir Panel 2 IP](https://github.com/Chauvet-Pro/ONAIRPANEL2IP/blob/2fcb0135f47e8a98f51ab89a8d6df66c27dce10d/firmware/V1.221226.zip)
-- Fixed inconsistencies in the brightness between the two LED boards when fast strobe with calibration on is activated
-
-[V1.220530 – onAir Panel 2 IP](https://github.com/Chauvet-Pro/ONAIRPANEL2IP/blob/2fcb0135f47e8a98f51ab89a8d6df66c27dce10d/firmware/V1.220530.zip)
-- For internal housekeeping.
-
-[V1.220317 – onAir Panel 2 IP](https://github.com/Chauvet-Pro/ONAIRPANEL2IP/blob/2fcb0135f47e8a98f51ab89a8d6df66c27dce10d/firmware/V1.220317.zip)
-- Added X and Y control personalites
-
-[V1.210918 – onAir Panel 2 IP](https://github.com/Chauvet-Pro/ONAIRPANEL2IP/blob/2fcb0135f47e8a98f51ab89a8d6df66c27dce10d/firmware/V1.210918.zip)
-- Released software version
