@@ -2,9 +2,9 @@
 
 ## USB Software Update Instructions
 1.  Power on the product and plug the flash drive into the USB port.
-2.	Once the flash drive has been detected, the message “***Upgrade Firmware***” will be displayed. Press **<ENTER>**.
+2.	Once the flash drive has been detected, the message “***Upgrade Firmware***” will be displayed. Press **< ENTER >**.
     > If a different message appears on the display, search for the updated software in the main menu (Update Firmware) and select from **Only This Unit**, **Multiple Fixture**, or **Other Fixture Type**. A list of the updated software files will be displayed. 
-3.	Select the file that needs to be uploaded. The message “***Are you sure?***” will be displayed. Press **<ENTER>**.
+3.	Select the file that needs to be uploaded. The message “***Are you sure?***” will be displayed. Press **< ENTER >**.
     > If the selected file is incorrect, the upgrade will fail, and the display will go back to the main interface. Repeat steps 1–3 using the correct file.
 5.	If the selected file is correct, the upgrade will start. DO NOT turn off the power or disconnect the USB during the process. USB update can take several minutes to complete.
 6.	When the update is completed, the product will automatically reboot.
@@ -25,10 +25,10 @@
 2.	Turn on the main fixture and set its protocol to **DMX512**.
 3.	Plug the flash drive into the USB-C port of the main fixture.
 4.	Go to **Upgrade Firmware** on the menu map.
-5.	Choose between Multiple Fixture and Other Fixture Type. Press **<ENTER>**.
+5.	Choose between Multiple Fixture and Other Fixture Type. Press **< ENTER >**.
     * **Multiple Fixture:** Both the target fixture and main fixture are from the same product line (e.g., 2 Color STRIKE M fixtures).
     * **Other Fixture Type:** The target fixture and main fixture are from different product series (e.g., a Color STRIKE M as the target fixture and a Maverick Silens 2 Profile as the main fixture).
-6.  Select the file that needs to be uploaded. The message “***Are you sure?***” will appear on the screen. Press **<ENTER>**. Turn on the target fixture within 1–2 seconds of pressing **<ENTER>**. The display on the target fixture should remain off.
+6.  Select the file that needs to be uploaded. The message “***Are you sure?***” will appear on the screen. Press **< ENTER >**. Turn on the target fixture within 1–2 seconds of pressing **< ENTER >**. The display on the target fixture should remain off.
     a. The main fixture will show the update progress (0–100%).
     b. The target fixture’s display will turn on, and a notification “***<UPDATE>***” will appear on the screen.
 7.  DO NOT turn off power or remove the USB flash drive. Once the software is done uploading, the target fixture will automatically reboot.
