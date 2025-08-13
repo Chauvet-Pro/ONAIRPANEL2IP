@@ -2,6 +2,12 @@
 
 ## Software Versions
 
+[V2.0.1 - onAir Panel 2 IP](https://github.com/Chauvet-Pro/ONAIRPANEL2IP/blob/a4cc47df34a1f25628634fdb0ab7943b5aa32734/firmware/V2.0.1.zip)
+- Increased the sACN universe limit from 256 to 32,000
+- Changed CCT jumps to 25
+- Added the Dimmer control for the Effect Macros
+- Eliminated the Start Address in the Ethernet Settings
+
 [V2.0.0 – onAir Panel 2 IP](https://github.com/Chauvet-Pro/ONAIRPANEL2IP/blob/2fcb0135f47e8a98f51ab89a8d6df66c27dce10d/firmware/V2.0.0_02-18-24.zip)
 - Improved network control capabilities and bug fixes
 
